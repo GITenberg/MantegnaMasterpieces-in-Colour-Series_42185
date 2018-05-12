@@ -1,0 +1,41 @@
+_repo: MantegnaMasterpieces-in-Colour-Series_42185
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42185-h/images/cover.jpg
+creator:
+  author:
+    agent_name: D'Anvers, N.
+    aliases:
+    - Bell, Mrs. Arthur
+    - Bell, Nancy R. E. Meugens
+    - Bell, Mrs. Arthur G.
+    - Bell, Nancy
+    deathdate: 1933
+    gutenberg_agent_id: '1165'
+    url: http://www.gutenberg.org/2009/agents/1165
+  editor:
+    agent_name: Hare, T. Leman (Thomas Leman)
+    aliases:
+    - Hare, T. L. (Thomas Leman)
+    - Hare, Thomas Leman
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '41203'
+    url: http://www.gutenberg.org/2009/agents/41203
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Mantegna, Andrea, 1431-1506'
+title: Mantegna
+url: http://www.gutenberg.org/ebooks/42185
